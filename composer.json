@@ -9,7 +9,11 @@
         {
             "name": "Kamba Abudu",
             "email": "kabudu@gmail.com"
-        }
+        },
+	{
+	    "name": "Anthony Terrien",
+            "homepage": "https://github.com/aterrien"
+	}
     ],
     "require": {
         "php": ">=5.3.2"
@@ -18,8 +22,8 @@
         "symfony/framework-bundle": ">=2.1"
     },
     "autoload": {
-        "psr-0": { "ImagiCreativity\\JqueryKnobBundle": "" }
+        "psr-0": { "ImagiCreativity\\Bundle\\JqueryKnobBundle": "" }
     },
     "minimum-stability": "dev",
-    "target-dir": "ImagiCreativity/JqueryKnobBundle"
+    "target-dir": "ImagiCreativity/Bundle/JqueryKnobBundle"
 }
