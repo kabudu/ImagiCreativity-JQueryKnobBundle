@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+
+<container xmlns="http://symfony.com/schema/dic/services"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://symfony.com/schema/dic/services http://symfony.com/schema/dic/services/services-1.0.xsd">
+
+    <!--
+    <parameters>
+        <parameter key="imagi_creativity_jquery_knob.example.class">ImagiCreativity\Bundle\JqueryKnobBundle\Example</parameter>
+    </parameters>
+
+    <services>
+        <service id="imagi_creativity_jquery_knob.example" class="%imagi_creativity_jquery_knob.example.class%">
+            <argument type="service" id="service_id" />
+            <argument>plain_value</argument>
+            <argument>%parameter_name%</argument>
+        </service>
+    </services>
+    -->
+</container>

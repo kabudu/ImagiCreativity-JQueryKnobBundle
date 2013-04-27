@@ -1,0 +1,25 @@
+{
+    "name": "imagicreativity/jquery-knob-bundle",
+    "type": "symfony-bundle",
+    "description": "Enables you to use the Jquery Knob library by Anthony Terrien in your Symfony2 projects. See: http://anthonyterrien.com/knob/",
+    "keywords": ["jquery", "bundle", "jquery-knob","jqueryknob"],
+    "homepage": "https://github.com/kabudu/ImagiCreativity-JQueryKnobBundle",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Kamba Abudu",
+            "email": "kabudu@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.2"
+    },
+    "require-dev": {
+        "symfony/framework-bundle": ">=2.1"
+    },
+    "autoload": {
+        "psr-0": { "ImagiCreativity\\JqueryKnobBundle": "" }
+    },
+    "minimum-stability": "dev",
+    "target-dir": "ImagiCreativity/JqueryKnobBundle"
+}
